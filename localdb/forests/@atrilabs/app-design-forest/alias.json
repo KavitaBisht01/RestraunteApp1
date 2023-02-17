@@ -1,0 +1,17 @@
+{
+  "Flex": 154,
+  "TextBox": 120,
+  "Menu": 6,
+  "Image": 70,
+  "Accordion": 5,
+  "Link": 20,
+  "Div": 3,
+  "Dropdown": 3,
+  "Toggle": 1,
+  "Button": 20,
+  "Step": 2,
+  "Table": 1,
+  "Carousel": 6,
+  "Input": 9,
+  "Slider": 1
+}
